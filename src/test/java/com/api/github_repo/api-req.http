@@ -1,0 +1,7 @@
+#non existing user
+GET http://localhost:8080/repos/Nataliasww
+Accept: application/json
+
+###
+#existing user
+GET http://localhost:8080/repos/Nataliasw
